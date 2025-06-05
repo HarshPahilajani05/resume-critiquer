@@ -7,7 +7,7 @@ Quick, copy-paste setup to run the Streamlit app.
 git clone https://github.com/HarshPahilajani05/resume-critiquer.git
 cd resume-critiquer
 
-# 2 (Recommended) create a virtual env
+# 2 (Optional) create a virtual env
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 # source .venv/bin/activate     # macOS / Linux
