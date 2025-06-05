@@ -1,0 +1,4 @@
+# ---- secrets & local config ----
+.env
+*.env
+.streamlit/secrets.toml
